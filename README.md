@@ -1,4 +1,3 @@
-# Adobe-ctd-project
 # Adobe India Hackathon 2025
 
 ## Welcome to the "Connecting the Dots" Challenge
